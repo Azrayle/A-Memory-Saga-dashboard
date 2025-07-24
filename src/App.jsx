@@ -16,10 +16,10 @@ const kpiData = [
 ];
 
 const platformData = [
-  { platform: 'YouTube', followers: 1250, engagement: 4.2, views: 15000, growth: 4.2, priority: 'High' },
-  { platform: 'TikTok', followers: 2800, engagement: 6.8, views: 25000, growth: 7.7, priority: 'High' },
+  { platform: 'YouTube', followers: 13, engagement: 4.2, views: 2100, growth: 4.2, priority: 'High' },
+  { platform: 'TikTok', followers: 2, engagement: 6.8, views: 2484, growth: 7.7, priority: 'High' },
   { platform: 'Instagram', followers: 1800, engagement: 3.5, views: 8000, growth: 2.9, priority: 'Medium' },
-  { platform: 'Facebook', followers: 950, engagement: 2.8, views: 3500, growth: 3.3, priority: 'Medium' }
+  { platform: 'Facebook', followers: 9, engagement: 5., views: 212, growth: 3.3, priority: 'Medium' }
 ];
 
 const weeklyData = [
@@ -30,10 +30,10 @@ const weeklyData = [
 ];
 
 const contentTypes = [
-  { name: 'Music Videos', value: 35, color: '#2D1B69' },
-  { name: 'Behind-the-Scenes', value: 25, color: '#00D4FF' },
-  { name: 'Character Spotlights', value: 20, color: '#FFD700' },
-  { name: 'Community Discussion', value: 15, color: '#8B0000' },
+  { name: 'Music Videos', value: 13, color: '#2D1B69' },
+  { name: 'Behind-the-Scenes', value: 0, color: '#00D4FF' },
+  { name: 'Character Spotlights', value: 0, color: '#FFD700' },
+  { name: 'Community Discussion', value: 1, color: '#8B0000' },
   { name: 'Other', value: 5, color: '#C0C0C0' }
 ];
 
